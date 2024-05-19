@@ -1,10 +1,8 @@
-![Flutter Interview](https://github.com/ostazm/flutter_interview/assets/flutter_interview.png)
-
+![Flutter Interview](https://raw.githubusercontent.com/ostazm/flutter_interview/main/assets/flutter_interview.png)
 
 [ENGLISH VERSION](https://github.com/ostazm/flutter_interview/blob/main/README_EN.md)
-<br>
-[ARABIC VERSION](https://github.com/ostazm/flutter_interview/blob/main/README_AR.md)
 
+[ARABIC VERSION](https://github.com/ostazm/flutter_interview/blob/main/README_AR.md)
 
 **Repositories:** [Flutter Interview](https://github.com/p0dyakov/flutter_interview), [Flutter Roadmap](https://github.com/p0dyakov/flutter_roadmap), [Flutter Acrticles](https://github.com/p0dyakov/flutter_articles), [Flutter Best Packages](https://github.com/p0dyakov/flutter_best_packages), [Flutter Tools](https://github.com/p0dyakov/flutter_tools)
 
