@@ -1,4 +1,4 @@
-![Flutter Interview](https://github.com/p0dyakov/flutter_interview/assets/80569772/68dccc7f-b4f2-4eca-932a-8f9fe5559b5f)
+![Flutter Interview](https://github.com/ostazm/flutter_interview/assets/flutter_interview.png)
 [ENGLISH VERSION](https://github.com/ostazm/flutter_interview/blob/main/README_EN.md)
 <br>
 [ARABIC VERSION](https://github.com/ostazm/flutter_interview/blob/main/README_AR.md)
