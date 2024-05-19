@@ -1,7 +1,8 @@
-![Flutter Interview](https://github.com/p0dyakov/flutter_interview/assets/80569772/68dccc7f-b4f2-4eca-932a-8f9fe5559b5f)
-[ENGLISH VERSION](https://github.com/p0dyakov/flutter_interview/blob/main/README_EN.md)
+![Flutter Interview](https://github.com/ostazm/flutter_interview/assets/80569772/68dccc7f-b4f2-4eca-932a-8f9fe5559b5f)
+[ENGLISH VERSION](https://github.com/ostazm/flutter_interview/blob/main/README_EN.md)
+[ARABIC VERSION](https://github.com/ostazm/flutter_interview/blob/main/README_AR.md)
 
-**Репозитории:** [Flutter Interview](https://github.com/p0dyakov/flutter_interview), [Flutter Roadmap](https://github.com/p0dyakov/flutter_roadmap), [Flutter Acrticles](https://github.com/p0dyakov/flutter_articles), [Flutter Best Packages](https://github.com/p0dyakov/flutter_best_packages), [Flutter Tools](https://github.com/p0dyakov/flutter_tools)  
+**Репозитории:** [Flutter Interview](https://github.com/ostazm/flutter_interview), [Flutter Roadmap](https://github.com/ostazm/flutter_roadmap), [Flutter Acrticles](https://github.com/ostazm/flutter_articles), [Flutter Best Packages](https://github.com/ostazm/flutter_best_packages), [Flutter Tools](https://github.com/ostazm/flutter_tools)  
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
@@ -226,7 +227,7 @@
 <!-- TOC --><a name="--3"></a>
 ### Система типов
 <p align="left" width="100%">
-    <img src="https://github.com/p0dyakov/flutter_interview/assets/80569772/93afb575-ee46-46d0-9717-ea6894e6f1b3" width="30%"/>
+    <img src="https://github.com/ostazm/flutter_interview/assets/80569772/93afb575-ee46-46d0-9717-ea6894e6f1b3" width="30%"/>
 </p>
 С появлением null safety в Dart, иерархия классов и интерфейсов была изменена для учета новых требований по безопасности типов. Вот основные изменения:
 
